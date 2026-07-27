@@ -1,0 +1,15 @@
+# Dataset files
+*.csv
+WA_Fn-UseC_-HR-Employee-Attrition.csv
+
+# Jupyter & IDE temporary folders
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
